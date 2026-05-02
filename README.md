@@ -3,7 +3,7 @@
 Solved in **Python**. Organized by topic. Updated daily.
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-0-blue?style=flat)
-![Language](https://img.shields.io/badge/Language-Python-3572A5?style=flat&logo=python&logoColor=white)
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -11,7 +11,7 @@ Solved in **Python**. Organized by topic. Updated daily.
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 0      |
+| Arrays              | 1      |
 | Strings             | 0      |
 | Two Pointers        | 0      |
 | Binary Search       | 0      |
@@ -26,9 +26,9 @@ Solved in **Python**. Organized by topic. Updated daily.
 
 ## 📁 Arrays
 
-| #   | Problem | Difficulty | Link                          |
-| --- | ------- | ---------- | ----------------------------- |
-| 1   | Two Sum | 🟢 Easy    | [solution](arrays/two_sum.py) |
+| #   | Problem          | Difficulty | Link                                    |
+| --- | ---------------- | ---------- | --------------------------------------- |
+| 1   | Majority Element | Easy       | [Solution](arrays/majority_element.cpp) |
 
 ---
 
