@@ -1,6 +1,6 @@
 # 🧩 LeetCode Solutions
 
-Solved in **Python**. Organized by topic. Updated daily.
+Solved in **CPP**. Organized by topic. Updated daily.
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-0-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -20,7 +20,7 @@ Solved in **Python**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **0**  |
+| **Total**           | **1**  |
 
 ---
 
