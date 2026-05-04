@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -13,22 +13,22 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | ------------------- | ------ |
 | Arrays              | 1      |
 | Strings             | 0      |
-| Two Pointers        | 0      |
+| Two Pointers        | 1      |
 | Binary Search       | 0      |
 | Stack & Queue       | 0      |
 | Linked List         | 0      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **1**  |
+| **Total**           | **2**  |
 
 ---
 
 ## 📁 Arrays
 
-| #   | Problem          | Difficulty | Link                                    |
-| --- | ---------------- | ---------- | --------------------------------------- |
-| 1   | Majority Element | Easy       | [Solution](arrays/majority_element.cpp) |
+| #   | Problem          | Difficulty | Link                          |
+| --- | ---------------- | ---------- | ----------------------------- |
+| 1   | Majority Element | Easy       | (arrays/majority_element.cpp) |
 
 ---
 
@@ -41,8 +41,9 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Two Pointers
 
-| #   | Problem | Difficulty | Link |
-| --- | ------- | ---------- | ---- |
+| #   | Problem                   | Difficulty | Link                                         |
+| --- | ------------------------- | ---------- | -------------------------------------------- |
+| 1   | Container with most water | Medium     | (two_pointers/container_with_most_water.cpp) |
 
 ---
 
