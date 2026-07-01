@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-8-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-9-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -14,14 +14,14 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Arrays              | 1      |
 | Basic Math          | 6      |
 | Strings             | 0      |
-| Two Pointers        | 1      |
+| Two Pointers        | 2      |
 | Binary Search       | 0      |
 | Stack & Queue       | 0      |
 | Linked List         | 0      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **8**  |
+| **Total**           | **9**  |
 
 ---
 
@@ -58,6 +58,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | #   | Problem                   | Difficulty | Link                                         |
 | --- | ------------------------- | ---------- | -------------------------------------------- |
 | 1   | Container with most water | Medium     | (two_pointers/container_with_most_water.cpp) |
+| 2   | valid Palindrome          | Medium     | (two_pointers/validPalindrome.cpp)           |
 
 ---
 
