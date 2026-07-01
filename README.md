@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-6-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-7-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -12,7 +12,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Topic               | Solved |
 | ------------------- | ------ |
 | Arrays              | 1      |
-| Basic Math          | 4      |
+| Basic Math          | 5      |
 | Strings             | 0      |
 | Two Pointers        | 1      |
 | Binary Search       | 0      |
@@ -21,7 +21,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **6**  |
+| **Total**           | **7**  |
 
 ---
 
@@ -41,6 +41,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 2   | Palindrome Number | Easy       | (Basic_Math/palindromeNumber.cpp) |
 | 3   | Armstrong Number  | Easy       | (Basic_Math/armstrongNumber.cpp)  |
 | 3   | Perfect Number    | Easy       | (Basic_Math/perfectNumber.cpp)    |
+| 3   | Prime Number      | Easy       | (Basic_Math/primeNumber.cpp)      |
 
 ---
 
