@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-4-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -12,6 +12,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Topic               | Solved |
 | ------------------- | ------ |
 | Arrays              | 1      |
+| Basic Math          | 2      |
 | Strings             | 0      |
 | Two Pointers        | 1      |
 | Binary Search       | 0      |
@@ -20,7 +21,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **2**  |
+| **Total**           | **4**  |
 
 ---
 
@@ -29,6 +30,15 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | #   | Problem          | Difficulty | Link                          |
 | --- | ---------------- | ---------- | ----------------------------- |
 | 1   | Majority Element | Easy       | (arrays/majority_element.cpp) |
+
+---
+
+## 📁 Basic Math
+
+| #   | Problem           | Difficulty | Link                              |
+| --- | ----------------- | ---------- | --------------------------------- |
+| 1   | Reverse Integer   | Medium     | (Basic_Math/reverseInteger.cpp)   |
+| 2   | Palindrome Number | Easy       | (Basic_Math/palindromeNumber.cpp) |
 
 ---
 
