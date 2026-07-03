@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-9-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-10-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -11,7 +11,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 1      |
+| Arrays              | 2      |
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
@@ -21,15 +21,16 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **9**  |
+| **Total**           | **10** |
 
 ---
 
 ## 📁 Arrays
 
-| #   | Problem          | Difficulty | Link                          |
-| --- | ---------------- | ---------- | ----------------------------- |
-| 1   | Majority Element | Easy       | (arrays/majority_element.cpp) |
+| #   | Problem            | Difficulty | Link                               |
+| --- | ------------------ | ---------- | ---------------------------------- |
+| 1   | Majority Element   | Easy       | (arrays/majority_element.cpp)      |
+| 2   | Sorted and Rotated | Easy       | (arrays/sortedAndRotatedArray.cpp) |
 
 ---
 
