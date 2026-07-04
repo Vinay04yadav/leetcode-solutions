@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-12-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-13-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -11,7 +11,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 4      |
+| Arrays              | 5      |
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
@@ -21,18 +21,19 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **12** |
+| **Total**           | **13** |
 
 ---
 
 ## 📁 Arrays
 
-| #   | Problem            | Difficulty | Link                               |
-| --- | ------------------ | ---------- | ---------------------------------- |
-| 1   | Majority Element   | Easy       | (arrays/majority_element.cpp)      |
-| 2   | Sorted and Rotated | Easy       | (arrays/sortedAndRotatedArray.cpp) |
-| 3   | remove duplicates  | Easy       | (arrays/removeDuplicates.cpp)      |
-| 3   | Rotate Array       | Easy       | (arrays/rightRotate.cpp)           |
+| #   | Problem              | Difficulty | Link                               |
+| --- | -------------------- | ---------- | ---------------------------------- |
+| 1   | Majority Element     | Easy       | (arrays/majority_element.cpp)      |
+| 2   | Sorted and Rotated   | Easy       | (arrays/sortedAndRotatedArray.cpp) |
+| 3   | remove duplicates    | Easy       | (arrays/removeDuplicates.cpp)      |
+| 3   | Rotate Array         | Easy       | (arrays/rightRotate.cpp)           |
+| 3   | Max consecutive ones | Easy       | (arrays/maxConsecutive.cpp)        |
 
 ---
 
