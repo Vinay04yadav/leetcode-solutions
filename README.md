@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-13-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-14-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -11,7 +11,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 5      |
+| Arrays              | 6      |
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
@@ -21,7 +21,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **13** |
+| **Total**           | **14** |
 
 ---
 
@@ -34,6 +34,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 3   | remove duplicates    | Easy       | (arrays/removeDuplicates.cpp)      |
 | 3   | Rotate Array         | Easy       | (arrays/rightRotate.cpp)           |
 | 3   | Max consecutive ones | Easy       | (arrays/maxConsecutive.cpp)        |
+| 3   | Single Number        | Easy       | (arrays/singleNumber.cpp)          |
 
 ---
 
