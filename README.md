@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-17-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-18-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -11,7 +11,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 | Topic               | Solved |
 | ------------------- | ------ |
-| Arrays              | 8      |
+| Arrays              | 9      |
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
@@ -21,7 +21,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **17** |
+| **Total**           | **18** |
 
 ---
 
@@ -38,6 +38,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 3   | Rearrange array elements          | Medium     | (arrays/rearrangeArrayElementsBySign.cpp) |
 | 3   | Best time to buy and sell stock   | Easy       | (arrays/buySellStock.cpp)                 |
 | 3   | Maximum subarray with largest sum | Medium     | (arrays/maximumSubarray.cpp)              |
+| 3   | Sort Colours                      | Medium     | (arrays/sortColors.cpp)                   |
 
 ---
 
