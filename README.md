@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-17-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -21,22 +21,23 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **16** |
+| **Total**           | **17** |
 
 ---
 
 ## 📁 Arrays
 
-| #   | Problem                         | Difficulty | Link                                      |
-| --- | ------------------------------- | ---------- | ----------------------------------------- |
-| 1   | Majority Element                | Easy       | (arrays/majority_element.cpp)             |
-| 2   | Sorted and Rotated              | Easy       | (arrays/sortedAndRotatedArray.cpp)        |
-| 3   | remove duplicates               | Easy       | (arrays/removeDuplicates.cpp)             |
-| 3   | Rotate Array                    | Easy       | (arrays/rightRotate.cpp)                  |
-| 3   | Max consecutive ones            | Easy       | (arrays/maxConsecutive.cpp)               |
-| 3   | Single Number                   | Easy       | (arrays/singleNumber.cpp)                 |
-| 3   | Rearrange array elements        | Medium     | (arrays/rearrangeArrayElementsBySign.cpp) |
-| 3   | Best time to buy and sell stock | Easy       | (arrays/buySellStock.cpp)                 |
+| #   | Problem                           | Difficulty | Link                                      |
+| --- | --------------------------------- | ---------- | ----------------------------------------- |
+| 1   | Majority Element                  | Easy       | (arrays/majority_element.cpp)             |
+| 2   | Sorted and Rotated                | Easy       | (arrays/sortedAndRotatedArray.cpp)        |
+| 3   | remove duplicates                 | Easy       | (arrays/removeDuplicates.cpp)             |
+| 3   | Rotate Array                      | Easy       | (arrays/rightRotate.cpp)                  |
+| 3   | Max consecutive ones              | Easy       | (arrays/maxConsecutive.cpp)               |
+| 3   | Single Number                     | Easy       | (arrays/singleNumber.cpp)                 |
+| 3   | Rearrange array elements          | Medium     | (arrays/rearrangeArrayElementsBySign.cpp) |
+| 3   | Best time to buy and sell stock   | Easy       | (arrays/buySellStock.cpp)                 |
+| 3   | Maximum subarray with largest sum | Medium     | (arrays/maximumSubarray.cpp)              |
 
 ---
 
