@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-22-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-23-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -15,13 +15,13 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
-| Binary Search       | 4      |
+| Binary Search       | 5      |
 | Stack & Queue       | 0      |
 | Linked List         | 0      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **22** |
+| **Total**           | **23** |
 
 ---
 
@@ -73,12 +73,13 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Binary Search
 
-| #   | Problem                                | Difficulty | Link                                     |
-| --- | -------------------------------------- | ---------- | ---------------------------------------- |
-| 01  | Binary Search                          | Easy       | [binary_search/binarySearch.cpp]         |
-| 02  | Search Insert Position                 | Easy       | [binary_search/searchInsertPosition.cpp] |
-| 03  | First and Last Occurance of An Element | Medium     | [binary_search/searchInsertPosition.cpp] |
-| 04  | Search in rotated sorted array         | Medium     | [binary_search/searchInRotatedArray.cpp] |
+| #   | Problem                                | Difficulty | Link                                       |
+| --- | -------------------------------------- | ---------- | ------------------------------------------ |
+| 01  | Binary Search                          | Easy       | [binary_search/binarySearch.cpp]           |
+| 02  | Search Insert Position                 | Easy       | [binary_search/searchInsertPosition.cpp]   |
+| 03  | First and Last Occurance of An Element | Medium     | [binary_search/searchInsertPosition.cpp]   |
+| 04  | Search in rotated sorted array         | Medium     | [binary_search/searchInRotatedArray.cpp]   |
+| 04  | Search in rotated sorted array II      | Medium     | [binary_search/searchInRotatedArrayII.cpp] |
 
 ---
 
