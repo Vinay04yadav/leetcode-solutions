@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-18-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-19-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -15,13 +15,13 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
-| Binary Search       | 0      |
+| Binary Search       | 1      |
 | Stack & Queue       | 0      |
 | Linked List         | 0      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **18** |
+| **Total**           | **19** |
 
 ---
 
@@ -73,8 +73,9 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Binary Search
 
-| #   | Problem | Difficulty | Link |
-| --- | ------- | ---------- | ---- |
+| #   | Problem       | Difficulty | Link                             |
+| --- | ------------- | ---------- | -------------------------------- |
+| 01  | Binary Search | Easy       | [binary_search/binarySearch.cpp] |
 
 ---
 
