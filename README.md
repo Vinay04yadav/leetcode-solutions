@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-27-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-28-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -15,13 +15,13 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
-| Binary Search       | 9      |
+| Binary Search       | 10     |
 | Stack & Queue       | 0      |
 | Linked List         | 0      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **27** |
+| **Total**           | **28** |
 
 ---
 
@@ -84,6 +84,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 07  | Find Peak Element                      | Medium     | [binary_search/peakElement.cpp]                |
 | 08  | Koko Eating Bananas                    | Medium     | [binary_search/kokoEatingBananas.cpp]          |
 | 09  | Min Num of Days for M Bouquets         | Medium     | [binary_search/minNumOfDaysForMBouquets.cpp]   |
+| 10  | Smallest Divisor Given Threshold       | Medium     | [binary_search/smallestDivisor.cpp]            |
 
 ---
 
