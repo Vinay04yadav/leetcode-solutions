@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-29-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-30-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -15,13 +15,13 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
-| Binary Search       | 11     |
+| Binary Search       | 12     |
 | Stack & Queue       | 0      |
 | Linked List         | 0      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **29** |
+| **Total**           | **30** |
 
 ---
 
@@ -86,6 +86,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 09  | Min Num of Days for M Bouquets         | Medium     | [binary_search/minNumOfDaysForMBouquets.cpp]   |
 | 10  | Smallest Divisor Given Threshold       | Medium     | [binary_search/smallestDivisor.cpp]            |
 | 11  | Least Capacity to ship Packages        | Medium     | [binary_search/leastCapacityToShip.cpp]        |
+| 12  | Kth Missing Positive Number            | Medium     | [binary_search/kthMissingPosInteger.cpp]       |
 
 ---
 
