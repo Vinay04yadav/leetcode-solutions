@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-32-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-33-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -15,13 +15,13 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
-| Binary Search       | 14     |
+| Binary Search       | 15     |
 | Stack & Queue       | 0      |
 | Linked List         | 0      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **32** |
+| **Total**           | **33** |
 
 ---
 
@@ -89,6 +89,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 12  | Kth Missing Positive Number            | Medium     | [binary_search/kthMissingPosInteger.cpp]       |
 | 13  | Aggresive Cows                         | Medium     | [binary_search/aggressiveCows.cpp]             |
 | 14  | Allocate Books                         | Hard       | [binary_search/allocateBooks.cpp]              |
+| 15  | Split Array Largest Sum                | Hard       | [binary_search/splitArrayLargSum.cpp]          |
 
 ---
 
