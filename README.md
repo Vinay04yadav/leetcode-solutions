@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-37-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-38-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -15,13 +15,13 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Basic Math          | 6      |
 | Strings             | 0      |
 | Two Pointers        | 2      |
-| Binary Search       | 19     |
+| Binary Search       | 20     |
 | Stack & Queue       | 0      |
 | Linked List         | 0      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **37** |
+| **Total**           | **38** |
 
 ---
 
@@ -94,6 +94,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 17  | Row With Max Ones                      | Medium     | [binary_search/rowWithMaxOnes.cpp]             |
 | 18  | Search A 2D Matrix                     | Medium     | [binary_search/search2DMatrix.cpp]             |
 | 19  | Search A 2D Matrix II                  | Medium     | [binary_search/search2DMatrixII.cpp]           |
+| 20  | Find A Peak Element II                 | Medium     | [binary_search/findPeakElemII.cpp]             |
 
 ---
 
