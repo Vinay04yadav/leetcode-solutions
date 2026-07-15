@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-43-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-44-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -13,7 +13,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | ------------------- | ------ |
 | Arrays              | 10     |
 | Basic Math          | 6      |
-| Strings             | 5      |
+| Strings             | 6      |
 | Two Pointers        | 2      |
 | Binary Search       | 20     |
 | Stack & Queue       | 0      |
@@ -21,7 +21,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **43** |
+| **Total**           | **44** |
 
 ---
 
@@ -64,6 +64,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 3   | Permutation in String          | Medium     | strings/permutationInString.cpp            |
 | 4   | Reverse Words in String        | Medium     | strings/reverseWordsInString.cpp           |
 | 5   | String Compression             | Medium     | strings/stringCompression.cpp              |
+| 6   | Remove Outermost Parentheses   | Easy       | strings/removeOutermostParentheses.cpp     |
 
 ---
 
