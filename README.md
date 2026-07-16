@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-47-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-48-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -13,7 +13,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | ------------------- | ------ |
 | Arrays              | 10     |
 | Basic Math          | 6      |
-| Strings             | 9      |
+| Strings             | 10     |
 | Two Pointers        | 2      |
 | Binary Search       | 20     |
 | Stack & Queue       | 0      |
@@ -21,7 +21,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **47** |
+| **Total**           | **48** |
 
 ---
 
@@ -68,6 +68,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 7   | Largest Odd Number in String   | Easy       | strings/largestOddNumInString.cpp          |
 | 8   | Longest Common Prefix          | Easy       | strings/longestCommonPrefix.cpp            |
 | 9   | Isomorphic Strings             | Easy       | strings/isomorphicStrings.cpp              |
+| 10  | Valid Anagram                  | Easy       | strings/validAnagram.cpp                   |
 
 ---
 
