@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-51-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-52-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -17,11 +17,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Two Pointers        | 2      |
 | Binary Search       | 20     |
 | Stack & Queue       | 0      |
-| Linked List         | 0      |
+| Linked List         | 1      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **51** |
+| **Total**           | **52** |
 
 ---
 
@@ -120,8 +120,9 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Linked List
 
-| #   | Problem | Difficulty | Link |
-| --- | ------- | ---------- | ---- |
+| #   | Problem                      | Difficulty | Link                       |
+| --- | ---------------------------- | ---------- | -------------------------- |
+| 1   | Delete Node in a Linked List | Medium     | linked_list/deleteNode.cpp |
 
 ---
 
