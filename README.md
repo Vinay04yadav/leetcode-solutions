@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-57-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-58-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -17,11 +17,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Two Pointers        | 2      |
 | Binary Search       | 20     |
 | Stack & Queue       | 0      |
-| Linked List         | 6      |
+| Linked List         | 7      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **57** |
+| **Total**           | **58** |
 
 ---
 
@@ -128,6 +128,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 4   | Linked List Cycle            | Easy       | linked_list/linkedListCycle.cpp      |
 | 5   | Linked List Cycle II         | Medium     | linked_list/linkedListCycleII.cpp    |
 | 6   | Linked List Cycle II         | Easy       | linked_list/palindromeLinkedList.cpp |
+| 7   | Odd Even Linked List         | Medium     | linked_list/OddEvenLinkedList.cpp    |
 
 ---
 
