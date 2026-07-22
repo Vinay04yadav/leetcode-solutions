@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-61-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-62-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -14,14 +14,14 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Arrays              | 10     |
 | Basic Math          | 6      |
 | Strings             | 13     |
-| Two Pointers        | 3      |
+| Two Pointers        | 4      |
 | Binary Search       | 20     |
 | Stack & Queue       | 0      |
 | Linked List         | 9      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **61** |
+| **Total**           | **62** |
 
 ---
 
@@ -82,6 +82,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 1   | Container with most water                      | Medium     | (two_pointers/container_with_most_water.cpp) |
 | 2   | valid Palindrome                               | Medium     | (two_pointers/validPalindrome.cpp)           |
 | 3   | Longest Substring Without Repeating Characters | Medium     | (two_pointers/longestSubstring.cpp)          |
+| 4   | Max Consecutive Ones III                       | Medium     | (two_pointers/maxConsecutiveOnesIII.cpp)     |
 
 ---
 
