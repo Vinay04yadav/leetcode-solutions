@@ -1,7 +1,7 @@
 // Problem: Longest Substring Without Repeating Characters
 // Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 // Difficulty: Medium
-// Topic: Linked List
+// Topic: Two pointers
 
 class Solution
 {

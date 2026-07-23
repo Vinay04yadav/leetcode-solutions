@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-62-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-63-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -21,7 +21,8 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| **Total**           | **62** |
+| Greedy              | 1      |
+| **Total**           | **63** |
 
 ---
 
@@ -154,3 +155,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 | #   | Problem | Difficulty | Link |
 | --- | ------- | ---------- | ---- |
+
+---
+
+## 📁 Greedy
+
+| #   | Problem        | Difficulty | Link                     |
+| --- | -------------- | ---------- | ------------------------ |
+| 1   | Assign Cookies | Easy       | greedy/assignCookies.cpp |

@@ -1,7 +1,7 @@
 // Problem: Max Consecutive Ones III
 // Link: https://leetcode.com/problems/max-consecutive-ones-iii/description/
 // Difficulty: Medium
-// Topic: Linked List
+// Topic: Two Pointer
 
 class Solution
 {
