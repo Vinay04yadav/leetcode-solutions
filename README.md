@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-67-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-68-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -16,13 +16,13 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Strings             | 13     |
 | Two Pointers        | 4      |
 | Binary Search       | 20     |
-| Stack & Queue       | 2      |
+| Stack & Queue       | 3      |
 | Linked List         | 9      |
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
 | Greedy              | 3      |
-| **Total**           | **67** |
+| **Total**           | **68** |
 
 ---
 
@@ -120,6 +120,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | --- | --------------------------- | ---------- | ----------------------------------------- |
 | 1   | Implement Stack using Queue | Easy       | stack_queue/implementStackUsingQueues.cpp |
 | 2   | Implement Queue using Stack | Easy       | stack_queue/implementQueueUsingStacks.cpp |
+| 3   | Valid Parenthesis           | Easy       | stack_queue/validParenthesis.cpp          |
 
 ---
 
