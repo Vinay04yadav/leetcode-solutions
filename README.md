@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-73-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-74-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -21,8 +21,8 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Trees               | 0      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
-| Greedy              | 4      |
-| **Total**           | **73** |
+| Greedy              | 5      |
+| **Total**           | **74** |
 
 ---
 
@@ -173,3 +173,4 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 2   | Fractional Knapsack      | Easy       | greedy/fractionalKnapsack.cpp     |
 | 3   | Lemonade Change          | Easy       | greedy/lemonadeChange.cpp         |
 | 4   | Valid Parenthesis String | Medium     | greedy/validParenthesisString.cpp |
+| 5   | Candy                    | Medium     | greedy/candy.cpp                  |
