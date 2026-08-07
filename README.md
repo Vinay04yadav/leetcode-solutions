@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-77-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-78-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -18,11 +18,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Binary Search       | 20     |
 | Stack & Queue       | 7      |
 | Linked List         | 9      |
-| Trees               | 3      |
+| Trees               | 4      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
 | Greedy              | 5      |
-| **Total**           | **77** |
+| **Total**           | **78** |
 
 ---
 
@@ -146,11 +146,12 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Trees
 
-| #   | Problem                         | Difficulty | Link                           |
-| --- | ------------------------------- | ---------- | ------------------------------ |
-| 1   | Binary Tree Preorder Traversal  | Easy       | trees/btPreorderTraversal.cpp  |
-| 2   | Binary Tree Inorder Traversal   | Easy       | trees/btInorderTraversal.cpp   |
-| 3   | Binary Tree Postorder Traversal | Easy       | trees/btPostorderTraversal.cpp |
+| #   | Problem                           | Difficulty | Link                            |
+| --- | --------------------------------- | ---------- | ------------------------------- |
+| 1   | Binary Tree Preorder Traversal    | Easy       | trees/btPreorderTraversal.cpp   |
+| 2   | Binary Tree Inorder Traversal     | Easy       | trees/btInorderTraversal.cpp    |
+| 3   | Binary Tree Postorder Traversal   | Easy       | trees/btPostorderTraversal.cpp  |
+| 4   | Binary Tree Level Order Traversal | Medium     | trees/btlevelorderTraversal.cpp |
 
 ---
 
