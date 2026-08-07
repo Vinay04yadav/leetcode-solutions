@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-74-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-75-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -18,11 +18,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Binary Search       | 20     |
 | Stack & Queue       | 7      |
 | Linked List         | 9      |
-| Trees               | 0      |
+| Trees               | 1      |
 | Dynamic Programming | 0      |
 | Graphs              | 0      |
 | Greedy              | 5      |
-| **Total**           | **74** |
+| **Total**           | **75** |
 
 ---
 
@@ -146,8 +146,9 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Trees
 
-| #   | Problem | Difficulty | Link |
-| --- | ------- | ---------- | ---- |
+| #   | Problem                        | Difficulty | Link                          |
+| --- | ------------------------------ | ---------- | ----------------------------- |
+| 1   | Binary Tree Preorder Traversal | Easy       | trees/btPreorderTraversal.cpp |
 
 ---
 
