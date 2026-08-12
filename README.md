@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-82-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-83-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -19,10 +19,10 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Stack & Queue       | 7      |
 | Linked List         | 9      |
 | Trees               | 5      |
-| Dynamic Programming | 3      |
+| Dynamic Programming | 4      |
 | Graphs              | 0      |
 | Greedy              | 5      |
-| **Total**           | **82** |
+| **Total**           | **83** |
 
 ---
 
@@ -163,6 +163,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 1   | Climbing Stairs | Easy       | dynamic_programming/climbingStairs.cpp |
 | 2   | Frog Jump       | Easy       | dynamic_programming/frogJump.cpp       |
 | 3   | House Robber    | Medium     | dynamic_programming/houseRobber.cpp    |
+| 4   | House Robber II | Medium     | dynamic_programming/houseRobberii.cpp  |
 
 ---
 
