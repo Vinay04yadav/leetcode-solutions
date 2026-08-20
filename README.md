@@ -158,16 +158,17 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Dynamic Programming
 
-| #   | Problem          | Difficulty | Link                                   |
-| --- | ---------------- | ---------- | -------------------------------------- |
-| 1   | Climbing Stairs  | Easy       | dynamic_programming/climbingStairs.cpp |
-| 2   | Frog Jump        | Easy       | dynamic_programming/frogJump.cpp       |
-| 3   | House Robber     | Medium     | dynamic_programming/houseRobber.cpp    |
-| 4   | House Robber II  | Medium     | dynamic_programming/houseRobberii.cpp  |
-| 5   | Unique Paths     | Medium     | dynamic_programming/uniquePaths.cpp    |
-| 6   | Unique Paths II  | Medium     | dynamic_programming/uniquePathsII.cpp  |
-| 7   | Minimum Path Sum | Medium     | dynamic_programming/minimumSumPath.cpp |
-| 8   | Triangle         | Medium     | dynamic_programming/triangle.cpp       |
+| #   | Problem                    | Difficulty | Link                                            |
+| --- | -------------------------- | ---------- | ----------------------------------------------- |
+| 1   | Climbing Stairs            | Easy       | dynamic_programming/climbingStairs.cpp          |
+| 2   | Frog Jump                  | Easy       | dynamic_programming/frogJump.cpp                |
+| 3   | House Robber               | Medium     | dynamic_programming/houseRobber.cpp             |
+| 4   | House Robber II            | Medium     | dynamic_programming/houseRobberii.cpp           |
+| 5   | Unique Paths               | Medium     | dynamic_programming/uniquePaths.cpp             |
+| 6   | Unique Paths II            | Medium     | dynamic_programming/uniquePathsII.cpp           |
+| 7   | Minimum Path Sum           | Medium     | dynamic_programming/minimumSumPath.cpp          |
+| 8   | Triangle                   | Medium     | dynamic_programming/triangle.cpp                |
+| 9   | Partition Equal Subset Sum | Medium     | dynamic_programming/partitionEqualSubsetSum.cpp |
 
 ---
 
