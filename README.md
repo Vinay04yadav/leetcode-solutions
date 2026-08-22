@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-92-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-93-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -18,11 +18,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Binary Search       | 20     |
 | Stack & Queue       | 7      |
 | Linked List         | 9      |
-| Trees               | 8      |
+| Trees               | 9      |
 | Dynamic Programming | 10     |
 | Graphs              | 0      |
 | Greedy              | 5      |
-| **Total**           | **92** |
+| **Total**           | **93** |
 
 ---
 
@@ -156,6 +156,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 6   | Maximum Depth of Binary Tree      | Easy       | trees/maxDepthOfBT.cpp          |
 | 7   | Balanced Binary Tree              | Easy       | trees/balancedBinaryTree.cpp    |
 | 8   | Diameter of Binary Tree           | Easy       | trees/diameterOfBT.cpp          |
+| 9   | Binary Tree Maximum Path Sum      | Hard       | trees/BTMaxPathSum.cpp          |
 
 ---
 
