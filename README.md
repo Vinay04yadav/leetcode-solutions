@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-94-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -18,11 +18,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Binary Search       | 20     |
 | Stack & Queue       | 7      |
 | Linked List         | 9      |
-| Trees               | 10     |
+| Trees               | 11     |
 | Dynamic Programming | 10     |
 | Graphs              | 0      |
 | Greedy              | 5      |
-| **Total**           | **94** |
+| **Total**           | **95** |
 
 ---
 
@@ -146,18 +146,19 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Trees
 
-| #   | Problem                           | Difficulty | Link                            |
-| --- | --------------------------------- | ---------- | ------------------------------- |
-| 1   | Binary Tree Preorder Traversal    | Easy       | trees/btPreorderTraversal.cpp   |
-| 2   | Binary Tree Inorder Traversal     | Easy       | trees/btInorderTraversal.cpp    |
-| 3   | Binary Tree Postorder Traversal   | Easy       | trees/btPostorderTraversal.cpp  |
-| 4   | Binary Tree Level Order Traversal | Medium     | trees/btlevelorderTraversal.cpp |
-| 5   | Search In A Binary Search Tree    | Easy       | trees/searchInBST.cpp           |
-| 6   | Maximum Depth of Binary Tree      | Easy       | trees/maxDepthOfBT.cpp          |
-| 7   | Balanced Binary Tree              | Easy       | trees/balancedBinaryTree.cpp    |
-| 8   | Diameter of Binary Tree           | Easy       | trees/diameterOfBT.cpp          |
-| 9   | Binary Tree Maximum Path Sum      | Hard       | trees/BTMaxPathSum.cpp          |
-| 10  | Same Tree                         | Easy       | trees/sameTree.cpp              |
+| #   | Problem                                   | Difficulty | Link                            |
+| --- | ----------------------------------------- | ---------- | ------------------------------- |
+| 1   | Binary Tree Preorder Traversal            | Easy       | trees/btPreorderTraversal.cpp   |
+| 2   | Binary Tree Inorder Traversal             | Easy       | trees/btInorderTraversal.cpp    |
+| 3   | Binary Tree Postorder Traversal           | Easy       | trees/btPostorderTraversal.cpp  |
+| 4   | Binary Tree Level Order Traversal         | Medium     | trees/btlevelorderTraversal.cpp |
+| 5   | Search In A Binary Search Tree            | Easy       | trees/searchInBST.cpp           |
+| 6   | Maximum Depth of Binary Tree              | Easy       | trees/maxDepthOfBT.cpp          |
+| 7   | Balanced Binary Tree                      | Easy       | trees/balancedBinaryTree.cpp    |
+| 8   | Diameter of Binary Tree                   | Easy       | trees/diameterOfBT.cpp          |
+| 9   | Binary Tree Maximum Path Sum              | Hard       | trees/BTMaxPathSum.cpp          |
+| 10  | Same Tree                                 | Easy       | trees/sameTree.cpp              |
+| 11  | Binary Tree Zig Zag Level Order Traversal | Medium     | trees/BTZigZagLOTraversal.cpp   |
 
 ---
 
