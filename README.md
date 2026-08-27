@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-97-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-98-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -18,11 +18,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Binary Search       | 20     |
 | Stack & Queue       | 7      |
 | Linked List         | 9      |
-| Trees               | 13     |
+| Trees               | 14     |
 | Dynamic Programming | 10     |
 | Graphs              | 0      |
 | Greedy              | 5      |
-| **Total**           | **97** |
+| **Total**           | **98** |
 
 ---
 
@@ -161,6 +161,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 11  | Binary Tree Zig Zag Level Order Traversal | Medium     | trees/BTZigZagLOTraversal.cpp        |
 | 12  | Verticle Order Traversal of a Binary Tree | Hard       | trees/verticleOrderTraversalOfBT.cpp |
 | 13  | Binary Tree Right Side View               | Medium     | trees/BTRightSideView.cpp            |
+| 14  | Symmetric Tree                            | Easy       | trees/symmetricTree.cpp              |
 
 ---
 
