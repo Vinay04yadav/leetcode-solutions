@@ -2,27 +2,27 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-99-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-100-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
 ## 📊 Progress Tracker
 
-| Topic               | Solved |
-| ------------------- | ------ |
-| Arrays              | 10     |
-| Basic Math          | 6      |
-| Strings             | 13     |
-| Two Pointers        | 4      |
-| Binary Search       | 20     |
-| Stack & Queue       | 7      |
-| Linked List         | 9      |
-| Trees               | 14     |
-| Dynamic Programming | 10     |
-| Graphs              | 1      |
-| Greedy              | 5      |
-| **Total**           | **99** |
+| Topic               | Solved  |
+| ------------------- | ------- |
+| Arrays              | 10      |
+| Basic Math          | 6       |
+| Strings             | 13      |
+| Two Pointers        | 4       |
+| Binary Search       | 20      |
+| Stack & Queue       | 7       |
+| Linked List         | 9       |
+| Trees               | 14      |
+| Dynamic Programming | 10      |
+| Graphs              | 2       |
+| Greedy              | 5       |
+| **Total**           | **100** |
 
 ---
 
@@ -187,6 +187,7 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | #   | Problem             | Difficulty | Link                         |
 | --- | ------------------- | ---------- | ---------------------------- |
 | 1   | Number of Provinces | Medium     | graphs/numberOfProvinces.cpp |
+| 2   | Rotting Oranges     | Medium     | graphs/rottingOranges.cpp    |
 
 ---
 
