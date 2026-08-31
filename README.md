@@ -2,7 +2,7 @@
 
 Solved in **CPP**. Organized by topic. Updated daily.
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-98-blue?style=flat)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-99-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
@@ -20,9 +20,9 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Linked List         | 9      |
 | Trees               | 14     |
 | Dynamic Programming | 10     |
-| Graphs              | 0      |
+| Graphs              | 1      |
 | Greedy              | 5      |
-| **Total**           | **98** |
+| **Total**           | **99** |
 
 ---
 
@@ -184,8 +184,9 @@ Solved in **CPP**. Organized by topic. Updated daily.
 
 ## 📁 Graphs
 
-| #   | Problem | Difficulty | Link |
-| --- | ------- | ---------- | ---- |
+| #   | Problem             | Difficulty | Link                         |
+| --- | ------------------- | ---------- | ---------------------------- |
+| 1   | Number of Provinces | Medium     | graphs/numberOfProvinces.cpp |
 
 ---
 
