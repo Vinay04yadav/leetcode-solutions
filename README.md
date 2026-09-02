@@ -22,7 +22,8 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | Dynamic Programming | 10      |
 | Graphs              | 2       |
 | Greedy              | 5       |
-| **Total**           | **100** |
+| Trie                | 1       |
+| **Total**           | **101** |
 
 ---
 
@@ -200,3 +201,11 @@ Solved in **CPP**. Organized by topic. Updated daily.
 | 3   | Lemonade Change          | Easy       | greedy/lemonadeChange.cpp         |
 | 4   | Valid Parenthesis String | Medium     | greedy/validParenthesisString.cpp |
 | 5   | Candy                    | Medium     | greedy/candy.cpp                  |
+
+---
+
+## 📁 Greedy
+
+| #   | Problem                        | Difficulty | Link                    |
+| --- | ------------------------------ | ---------- | ----------------------- |
+| 1   | Implement Trie ( Prefix Tree ) | Medium     | tries/implementTrie.cpp |
